@@ -1,7 +1,7 @@
 # Mips_Programming
 Assignments from our coursework on mips
 
-Assignment 1
+#Assignment 1
 
 Aim: Handling of local variables in subroutines by allocating space on stack. Handling (local) arrays
 in MIPS.
@@ -23,7 +23,7 @@ you would access in your program the memory locations corresponding to n, k and 
 (f) prints the same within the message – ”The %d-th largest number among [a comma separated
 list of the n numbers read] is:” h the k-th largest number i
 
-Assignment 2
+#Assignment 2
 
 Aim : Writing a function subroutine in MIPS, allocating variables dynamically on the stack, passing
 parameters to functions by value, passing (local) arrays to functions by their addresses.
@@ -53,7 +53,7 @@ v. Computes B ← At using matTrans,
 
 vi. prints the elements of B using matPrint.
 
-Assignment 3
+#Assignment 3
 
 Aim:
 Writing a recursive function subprogram in MIPS
